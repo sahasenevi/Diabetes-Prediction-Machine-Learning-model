@@ -7,4 +7,5 @@ Multiple machine learning algorithms were tested and evaluated using accuracy an
 Through this project, I strengthened my foundation in Python programming, data analysis, and machine learning fundamentals, while gaining practical exposure to how AI-driven solutions can support early health risk identification and data-informed decision-making.
 
 📌 Tools & Technologies: Python, Google Colab, Pandas, NumPy, Scikit-learn, Matplotlib
+
 📌 Key Skills: Data Preprocessing, Feature Engineering, Classification Models, Model Evaluation, Predictive Analytics
